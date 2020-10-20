@@ -1,6 +1,6 @@
 ## Game Data
 
--[Raiden IV](raideniv.md)
+- [Raiden IV](raideniv.md)
 
 You can use the [editor on GitHub](https://github.com/RhektButler/RhektButler.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
